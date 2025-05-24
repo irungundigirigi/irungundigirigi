@@ -1,6 +1,6 @@
 ```js
    Greeting: "Hi",
-   Expertise: Web and Mobile development (js & python),
+   Expertise: "Web and Mobile development (js & python)",
    Status: "Ready to code!"
 ```
 
