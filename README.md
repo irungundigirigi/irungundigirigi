@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Edwin
 
-![UFO Landing](https://media.giphy.com/media/l0K4qE9xMNZzscx9K/giphy.gif)
-I build things with **React**, **React Native**, and **Python**. Just here to make cool stuff and keep the bugs at bay. 🌿
+I'm a full-stack software engineer with experience in **React**, **React Native**, **Node.js**, and **PostgreSQL** . Currently building a local bartering app 🔄, I love hands-on learning, solving real-world problems 🧠, and collaborating with awesome teams 🤝. Always coding, always learning 🚀.
 
+![Coding](https://media.giphy.com/media/2zV6pYBlMZa2M/giphy.gif)
