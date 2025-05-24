@@ -1,3 +1,7 @@
-# 👋 Hey, I'm Edwin
-I do web, mobile applications, API's in javascript and python frameworks plus many other things. Strive go get better every day.
-Feel free to explore, star, or drop a friendly message if you like what you see. Happy coding! 🚀
+# 👋 Hey, I'm Edwin!
+
+I’m a web and mobile developer with a knack for building APIs, all while juggling **JavaScript**, **Python**, and frameworks like it’s my superpower. 🦸‍♂️ I believe in the pursuit of continuous improvement, mostly through trial, error.
+
+Feel free to explore my repos, star something that impresses you, or leave a message — I’m always open to learning from fellow code enthusiasts. 🚀
+
+
