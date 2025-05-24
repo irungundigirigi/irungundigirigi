@@ -1,4 +1,7 @@
-## 👋 Hi, I'm Edwin!
+```js
+   Greeting: "Hi",
+   Status: "Ready to code!"
+```
 
 Aspiring software engineer interested in learning, building, and helping people through code.
 <div style="display: flex; align-items: center;">
