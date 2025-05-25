@@ -1,9 +1,3 @@
-```js
-   Greeting: "Hi",
-   Expertise: "Web and Mobile development (js & python)",
-   Status: "Ready to code!"
-```
-
 Aspiring software engineer interested in learning, building, and helping people through code.
 <div style="display: flex; align-items: center;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="30" height="30" style="fill: blue; margin-right: 10px;" />
