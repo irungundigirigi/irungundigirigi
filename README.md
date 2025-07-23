@@ -3,7 +3,7 @@ Aspiring software engineer interested in learning, building, and helping people 
 ## 🏅 Certifications
 
 - **ALX Software Engineering Certificate**  
-  [View Certificate](./certifications/17-short-specializations-certificate-edwin-irungu.png)
+  [View Certificate](./certificates/17-short-specializations-certificate-edwin-irungu.png)
 
 <div style="display: flex; align-items: center;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="30" height="30" style="fill: blue; margin-right: 10px;" />
