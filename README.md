@@ -1,4 +1,5 @@
-Software engineer interested in learning, building, and helping people through code.
+Pryvit!
+I am a Software engineer interested in learning, building, and helping people through code.
 
 ## 🏅 Certifications
 
