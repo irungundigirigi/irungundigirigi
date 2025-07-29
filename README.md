@@ -1,5 +1,5 @@
 #### Привіт!
-I am a Software engineer interested in building and helping people through code.
+I build and maintain web applications, mobile applications and servers.
 
 ## 🏅 Certifications
 
