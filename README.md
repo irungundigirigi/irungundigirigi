@@ -1,4 +1,4 @@
-Aspiring software engineer interested in learning, building, and helping people through code.
+Software engineer interested in learning, building, and helping people through code.
 
 ## 🏅 Certifications
 
