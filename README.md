@@ -1,4 +1,4 @@
-#### Привіт!
+#### Hello!
 I build and maintain web applications, mobile applications and servers.
 
 ## 🏅 Certifications
