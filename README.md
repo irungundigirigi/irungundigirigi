@@ -1,5 +1,5 @@
-#### Hello!
-I build and maintain web applications, mobile applications and servers.
+#### Hi!
+I am React and React Native applications developer.
 
 ## 🏅 Certifications
 
