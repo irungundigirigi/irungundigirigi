@@ -1,5 +1,6 @@
 #### Hi!
-I am React and React Native applications developer.
+##### React & React Native Developer
+Building user interfaces with javascript & typescript.
 
 ## 🏅 Certifications
 
