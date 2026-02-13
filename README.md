@@ -1,6 +1,6 @@
 ##### Hi!
 #### React & React Native Developer
-Building user interfaces with javascript & typescript.
+I build web and native user interfaces with React.
 
 ## 🏅 Certifications
 
